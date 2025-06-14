@@ -27,8 +27,8 @@ A simple password manager web application built with React, Express, and MongoDB
 #### 1. Clone the repository
 
 ```sh
-git clone <your-repo-url>
-cd using mongo
+git clone https://github.com/NaruSudarshan/PassManager_using_mongo
+cd PassManager_using_mongo
 ```
 
 #### 2. Install frontend dependencies
